@@ -1,4 +1,3 @@
-# aerial_weather_comparative_detection
 # 🌦️ Aerial Object Detection under Adverse Weather Conditions
 
 ## 📌 Overview
