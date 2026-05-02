@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights (VERY IMPORTANT)
+weights/
+*.pt
+*.pth
+
+# Training outputs / results
+weather_finetune_results/
+runs/
+results/
+
+# Images (if large datasets inside)
+*.jpg
+*.jpeg
+*.png
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
