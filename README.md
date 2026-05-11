@@ -87,6 +87,10 @@ Due to GitHub file size limitations, **model weights and dataset are not include
 
 **Nandini Alapati**
 B.Tech CSE (AI & ML)
+**Sharon Bezawada**
+B.Tech CSE (AI & ML)
+**Kandula Chandra Sekhar**
+B.Tech CSE (AI & ML)
 
 ---
 
